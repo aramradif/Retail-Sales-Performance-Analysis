@@ -1,17 +1,5 @@
 # Retail Sales Performance Analysis
 
-retail-sales-performance-analysis/
-├── README.md
-├── requirements.txt
-├── src/
-│   ├── pipeline.py
-│   └── app.py
-├── data/
-│   └── sales.csv   (optional)
-└── docs/
-    └── original_word_doc.docx (optional)
-
-
 ## Project Overview
 
 ### Objective
@@ -59,6 +47,18 @@ This analysis supports data-driven decision-making to improve revenue and operat
 - Snowpark enables scalable in-database transformations
 - AWS provides durable storage
 - Streamlit allows BI-style dashboards without external tools
+
+- retail-sales-performance-analysis/
+├── README.md
+├── requirements.txt
+├── src/
+│   ├── pipeline.py
+│   └── app.py
+├── data/
+│   └── sales.csv   (optional)
+└── docs/
+    └── original_word_doc.docx (optional)
+
 
 ---
 
