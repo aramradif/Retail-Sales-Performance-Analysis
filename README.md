@@ -1,5 +1,17 @@
 # Retail Sales Performance Analysis
 
+retail-sales-performance-analysis/
+├── README.md
+├── requirements.txt
+├── src/
+│   ├── pipeline.py
+│   └── app.py
+├── data/
+│   └── sales.csv   (optional)
+└── docs/
+    └── original_word_doc.docx (optional)
+
+
 ## Project Overview
 
 ### Objective
