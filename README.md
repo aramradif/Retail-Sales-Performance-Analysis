@@ -48,18 +48,6 @@ This analysis supports data-driven decision-making to improve revenue and operat
 - AWS provides durable storage
 - Streamlit allows BI-style dashboards without external tools
 
-- retail-sales-performance-analysis/
-├── README.md
-├── requirements.txt
-├── src/
-│   ├── pipeline.py
-│   └── app.py
-├── data/
-│   └── sales.csv   (optional)
-└── docs/
-    └── original_word_doc.docx (optional)
-
-
 ---
 
 ## Data Pipeline Steps
