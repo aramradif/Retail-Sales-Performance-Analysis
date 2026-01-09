@@ -127,5 +127,5 @@ Visuals include:
 ---
 
 ## Author
-Adam R
+Aram Radif
 
