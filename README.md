@@ -1,4 +1,4 @@
-# Retail Sales Performance Analysis
+# Aram Radif - Retail Sales Performance Analysis
 
 ## Project Overview
 
